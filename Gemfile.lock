@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    l_login (0.1.0)
+    l_login (0.1.0.14)
       rails (~> 6.1.3, >= 6.1.3.2)
 
 GEM
